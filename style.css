@@ -26,9 +26,8 @@ body {
 .title {
   font-weight: 400;
   font-size: 70px;
-  text-box-trim: none;
   line-height: 78px;
-  letter-spacing: 0%;
+  letter-spacing: 0;
   text-align: center;
   vertical-align: middle;
   margin-top: 220px;
@@ -70,27 +69,24 @@ body {
 
 .card-title {
   font-weight: 700;
-  font-style: bold;
   font-size: 20px;
   line-height: 27px;
-  letter-spacing: 0%;
+  letter-spacing: 0;
   margin-top: 5px;
 }
 
 .card-description {
   font-weight: 400;
   font-size: 13px;
-  text-box-trim: none;
   line-height: 18px;
-  letter-spacing: 0%;
+  letter-spacing: 0;
   margin-top: 5px;
 }
 
 .card-composition {
   font-size: 13px;
-  text-box-trim: none;
   line-height: 18px;
-  letter-spacing: 0%;
+  letter-spacing: 0;
   margin-top: 15px;
   margin-bottom: 5px;
 }
@@ -101,8 +97,7 @@ body {
   font-weight: 400;
   font-size: 13px;
   line-height: 18px;
-  letter-spacing: 0%;
-  text-box-trim: none;
+  letter-spacing: 0;
   margin: 0;
   padding: 0 0 0 18px;
 }
@@ -115,17 +110,14 @@ body {
 
 .card-price-label {
   font-weight: 700;
-  font-style: Bold;
   font-size: 20px;
   line-height: 24px;
-  letter-spacing: 0%;
-  text-box-trim: none;
+  letter-spacing: 0;
 }
 
 .card-price-value {
   font-weight: 400;
   font-size: 20px;
   line-height: 24px;
-  letter-spacing: 0%;
-  text-box-trim: none;
+  letter-spacing: 0;
 }
