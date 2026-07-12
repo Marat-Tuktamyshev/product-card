@@ -4,23 +4,19 @@ body {
   padding: 0;
   color: #515076;
   position: relative;
+
+
 }
 
 .wrapper {
   max-width: 1160px;
   margin: auto;
   position: relative;
-}
+  background: url("img/bg_1.png");
+  background-repeat: no-repeat;
+  background-position: 15px 0px;
+  background-size: 790px 697px;
 
-.logo {
-  width: 790px;
-  height: 697px;
-  top: 0px;
-  left: 85px;
-  transform: rotate(0deg);
-  opacity: 1;
-  position: absolute;
-  z-index: -1;
 }
 
 .title {
@@ -39,11 +35,11 @@ body {
   max-width: 1160px;
   margin: auto;
   margin-top: 110px;
+  gap: 45px;
 }
 
 .card {
   border-radius: 16px;
-  margin: 20px;
   padding: 20px;
   width: 340px;
   box-sizing: border-box;
