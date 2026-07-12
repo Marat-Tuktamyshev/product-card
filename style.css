@@ -3,8 +3,6 @@ body {
   margin: 0;
   padding: 0;
   color: #515076;
-  position: relative;
-
 
 }
 
@@ -16,8 +14,8 @@ body {
   background-repeat: no-repeat;
   background-position: 15px 0px;
   background-size: 790px 697px;
-
 }
+
 
 .title {
   font-weight: 400;
