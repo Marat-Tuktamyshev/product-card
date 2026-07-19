@@ -1,0 +1,19 @@
+.price {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 25px;
+}
+
+.price__label {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0;
+}
+
+.price__value {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0;
+}
