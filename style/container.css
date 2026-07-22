@@ -1,0 +1,13 @@
+.container {
+  width: 1110px;
+  height: 1191px;
+  margin-top: 408px;
+  margin: 0 auto;
+}
+.container__background-image {
+  background: url("../img/background_dandelions.png");
+  background-repeat: no-repeat;
+  background-position: 15px 0px;
+  background-size: 790px 697px;
+  padding-top: 1px;
+}
